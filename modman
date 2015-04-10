@@ -1920,7 +1920,7 @@ src/app/locale/en_US/template/email/sales/shipment_new_guest.html app/locale/en_
 src/app/locale/en_US/template/email/sales/shipment_update.html app/locale/en_US/template/email/sales/shipment_update.html
 src/app/locale/en_US/template/email/sales/shipment_update_guest.html app/locale/en_US/template/email/sales/shipment_update_guest.html
 src/app/.htaccess app/.htaccess
-src/app/Mage.php app/Mage.php
+#src/app/Mage.php app/Mage.php
 src/downloader/* downloader/*
 src/errors/.htaccess errors/.htaccess
 src/errors/404.php errors/404.php
