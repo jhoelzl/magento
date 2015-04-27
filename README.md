@@ -4,4 +4,4 @@
 * Added modman file
 
 ## To be done
-* Add Secrutiy Patches
+* Add Security Patches
